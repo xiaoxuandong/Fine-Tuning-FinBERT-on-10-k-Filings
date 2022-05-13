@@ -1,6 +1,0 @@
-pytorch-pretrained-bert
-numpy
-torch
-torchvision
-scikit-learn
-pandas
